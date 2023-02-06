@@ -1,1 +1,1 @@
-Python small projects
+This repo is made for python practice.
